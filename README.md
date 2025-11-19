@@ -846,8 +846,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 **Alex Thankachan**
 
 - GitHub: [@AlexThankachan33887](https://github.com/AlexThankachan33887)
-- LinkedIn: [Connect with me](https://linkedin.com/in/alexthankachan)
-- Email: alex.thankachan@example.com
+- LinkedIn: [Connect with me](https://linkedin.com/in/codered7)
+- Email: alexthankachan95@gmail.com
 
 ---
 
